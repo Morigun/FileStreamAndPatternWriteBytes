@@ -1,0 +1,6 @@
+D:\Проекты\MSVS\C#\FileStreamAndPatternWriteBytes\FileStreamAndPatternWriteBytes\bin\Debug\FileStreamAndPatternWriteBytes.exe.config
+D:\Проекты\MSVS\C#\FileStreamAndPatternWriteBytes\FileStreamAndPatternWriteBytes\bin\Debug\FileStreamAndPatternWriteBytes.exe
+D:\Проекты\MSVS\C#\FileStreamAndPatternWriteBytes\FileStreamAndPatternWriteBytes\bin\Debug\FileStreamAndPatternWriteBytes.pdb
+D:\Проекты\MSVS\C#\FileStreamAndPatternWriteBytes\FileStreamAndPatternWriteBytes\obj\Debug\FileStreamAndPatternWriteBytes.csprojResolveAssemblyReference.cache
+D:\Проекты\MSVS\C#\FileStreamAndPatternWriteBytes\FileStreamAndPatternWriteBytes\obj\Debug\FileStreamAndPatternWriteBytes.exe
+D:\Проекты\MSVS\C#\FileStreamAndPatternWriteBytes\FileStreamAndPatternWriteBytes\obj\Debug\FileStreamAndPatternWriteBytes.pdb
