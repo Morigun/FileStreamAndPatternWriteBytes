@@ -29,8 +29,8 @@ namespace FileStreamAndPatternWriteBytes
             var fileStream = new FileStream(fst,FileMode.Open);
             WriteBytes(fileStream);
 
-            var buffStream = new BufferedStream(fileStream);
-            WriteBytes(fileStream);
+            /*var buffStream = new BufferedStream(fileStream);
+            WriteBytes(fileStream);*/
             stopWatch.Stop();
             // Get the elapsed time as a TimeSpan value.
             TimeSpan ts = stopWatch.Elapsed;
